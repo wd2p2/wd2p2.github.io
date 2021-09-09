@@ -1,0 +1,39 @@
+Call for Papers: International Workshop on Web 3.0 and Decentralised Data Processing Platforms (co-located with PerCom 2022) 
+
+*** CALL FOR CONTRIBUTIONS ***
+KuVS-Fachgespräch Fog Computing
+26-27 March 2020, Essen
+https://sites.google.com/view/fachgespraechfog/
+
+The "Fachgespräch" workshop series of the Communication and Distributed Systems (KuVS) special interest group of the German Society for Computer Science (Deutsche Gesellschaft für Informatik, GI) and the Information Technology Society of VDE (Informationstechnische Gesellschaft, ITG) offers scientists the possibility to exchange ideas in focus research areas, and to strengthen cooperation in these areas.
+
+The KuVS-Fachgespräch Fog Computing offers a platform to present fundamental as well as application-oriented research results in the field. Fog Computing is nowadays widely accepted as a useful alternative to local solutions and (Cloud-based) centralized approaches to data processing. While Fog Computing provides a wide range of possible application areas, many important fundamental research questions have not been covered in depth yet. Therefore, it is the goal of the KuVS-Fachgespräch Fog Computing to identify research issues arising by the volatility of IoT-based smart systems, and the potentially very quickly changing system landscapes, and to identify how concrete research contributions in the field of Fog Computing can help to overcome these issues. 
+
+To achieve this, researchers from different subfields of computer science and related areas are invited to present their thoughts and ideas in the field of Fog Computing, including, but not limited to research in the fields of:
+* Networking aspects to enable Fog Computing
+* Protocols and algorithms for distributed Fog Computing systems
+* Cloud Computing
+* Internet of Things
+* Software engineering methodologies for Fog Computing systems
+* Cyber-Physical Systems and embedded systems in Fog Computing
+* Blockchains and the Fog
+* Service models and service management for the Fog
+* Reliability and performance engineering for the Fog
+* Privacy and security considerations in Fog Computing
+* User interaction and usability in Fog Computing
+* Optimization problems and optimization algorithms in Fog Computing
+* Other related computing paradigms like edge computing, dew computing, and mist computing
+
+###Submissions###
+Authors must submit their manuscripts via Easychair, taking into account the above-mentioned formatting requirements. All submitted papers will be peer-reviewed. Submissions need to state the names and affiliations of the authors. 
+
+Each accepted paper must be presented by one of the authors at the Fachgespräch. Presentations can be done in English or German.
+
+###Proceedings###
+The proceedings will be published as a Technical Report in TU Wien's reposiTUm. Therefore, the workshop is open for contributions that have been published at other peer-reviewed events, as long as there are no infringements of copyrights. 
+
+###Important Dates###
+* Submission deadline: 15 January 2020
+* Notifications: 19 February 2020
+* Camera-ready version & registration: 06 March 2020
+* KuVS-Fachgespräch Fog Computing: 26-27 March 2020
