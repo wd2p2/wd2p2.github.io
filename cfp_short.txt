@@ -1,9 +1,9 @@
 *** CALL FOR PAPERS ***
-International Workshop on Web 3.0 and Decentralised Data Processing Platforms (co-located with PerCom 2022) 
+International Workshop on Web 3.0 and Decentralised Data Processing and Storage Platforms (co-located with PerCom 2022) 
 21st or 25th March 2022; Pisa, Italy
 https://wd2p2.github.io/index.html
 
-The increased adoption of pervasive computing technologies such as the Internet of Things (IoT) in "smart" environments has resulted in an ever-increasing amount of data. The current data processing and storage models of these data, where much of the controls over them resides with the service providers, exacerbate the issues of privacy and data ownership. 
+The increased adoption of pervasive computing technologies such as the Internet of Things (IoT) in "smart" environments has resulted in an ever-increasing amount of data. The current data processing and storage models of these data, where much of the controls over them reside with the service providers, exacerbate the issues of privacy and data ownership. 
 
 The absence of data residency choice by the user leads to a lack of transparency on the use of user’s data, diminishing the trust in the future development of the digital economy and society at large. Open, decentralised data storage and processing platforms, such as Personal Data Stores (PDS), Decentralised File Storages (DFS) and blockchains, are emerging as an alternative that alleviate the fundamental privacy issues by empowering users to store and control their data in the location of their choosing, establishing data sovereignty. This movement is helped by the next phase of computing platforms referred to as Web 3.0 which is quickly gaining momentum through convergence of enabling technologies, including augmented and virtual reality (AR/VR), 5G connectivity/geolocation, IoT devices, and edge computing.
 
@@ -27,7 +27,7 @@ In this workshop, the focus is on findings, advancements, and achievements in th
 ###Submissions###
 Paper submission will be managed via the EDAS system. The paper should not exceed 6 pages (overall, i.e., including references) in IEEE, 10pt font, 2-column format. For further information, please refer to https://wd2p2.github.io/submission.html.
 
-Each accepted paper must be presented by one of the authors at the workshop. The papers accepted in the workshop will appear and indexed in the IEEE digital libraries (Xplore). Please note that each accepted paper requires a full PerCom registration.
+Each accepted paper must be presented by one of the authors at the workshop. The papers accepted in the workshop will appear and be indexed in the IEEE digital libraries (Xplore). Please note that each accepted paper requires a full PerCom registration.
 
 ###Important Dates###
 * Abstract registration: 07 November 2021
