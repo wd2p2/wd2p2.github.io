@@ -31,7 +31,7 @@ Each accepted paper must be presented by one of the authors at the workshop. The
 
 ###Important Dates###
 * Abstract registration: 07 November 2021
-* Submission deadline: 14 November 2021
+* Submission deadline: 30 November 2021
 * Notifications: 05 January 2022
 * Camera-ready version & registration: 05 February 2022
 * Workshop: 21st or 25th March 2022
